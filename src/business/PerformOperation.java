@@ -1,10 +1,10 @@
 package business;
 
 public class PerformOperation {
-	private int x;
-	private int y;
-	private String o;
-	private int answer = 0;
+//	private int x;
+//	private int y;
+//	private String o;
+//	private int answer = 0;
 
 	
 //		After user selects you'll need logic such as
@@ -36,43 +36,43 @@ public class PerformOperation {
 		super();
 	}
 
-	PerformOperation (int x, int y, String o, int answer) {
-
-	}
-
-	public int getX() {
-		return x;
-	}
-
-	public void setX(int x) {
-		this.x = x;
-	}
-
-	public int getY() {
-		return y;
-	}
-
-	public void setY(int y) {
-		this.y = y;
-	}
-
-	public String getO() {
-		return o;
-	}
-
-	public void setO(String o) {
-		this.o = o;
-	}
-
-	public int getAnswer() {
-		return answer;
-	}
-
-
-	@Override
-	public String toString() {
-		return "PerformOperation [x=" + x + ", y=" + y + ", o=" + o + ", answer=" + answer + "]";
-	}
+//	PerformOperation (int x, int y, String o, int answer) {
+//
+//	}
+//
+//	public int getX() {
+//		return x;
+//	}
+//
+//	public void setX(int x) {
+//		this.x = x;
+//	}
+//
+//	public int getY() {
+//		return y;
+//	}
+//
+//	public void setY(int y) {
+//		this.y = y;
+//	}
+//
+//	public String getO() {
+//		return o;
+//	}
+//
+//	public void setO(String o) {
+//		this.o = o;
+//	}
+//
+//	public int getAnswer() {
+//		return answer;
+//	}
+//
+//
+//	@Override
+//	public String toString() {
+//		return "PerformOperation [x=" + x + ", y=" + y + ", o=" + o + ", answer=" + answer + "]";
+//	}
 	
 	
 }

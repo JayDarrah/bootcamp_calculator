@@ -46,6 +46,8 @@ public class CalculatorApp {
 		String buhBye = StringUtilPlus.pad("Bye", excitement, "!");
 		System.out.println(buhBye);
 	}
+	
+	
 	public static void printFunctionMenu() {
 		StringBuilder sbMenu = new StringBuilder();
 		sbMenu.append("\t╔════════════════════╗\n");
