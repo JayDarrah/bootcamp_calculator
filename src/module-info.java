@@ -1,0 +1,2 @@
+module bootcamp_calculator {
+}
